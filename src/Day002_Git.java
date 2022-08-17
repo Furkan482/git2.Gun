@@ -25,6 +25,7 @@ NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra
  ikinci commit'lerim için sadece git push kullanırız.
  Not: git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumu gosterir
 Not: Github'ı ögrendim
+Not: Github cok eglenceli
   */
     }
 }
